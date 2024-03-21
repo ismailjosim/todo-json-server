@@ -1,0 +1,16 @@
+{
+	"todos": [
+		{
+			"text": "Assignment 9 Target 30",
+			"completed": false,
+			"id": 1,
+			"color": "yellow"
+		},
+		{
+			"text": "task added",
+			"completed": false,
+			"id": 2,
+			"color": "green"
+		}
+	]
+}
